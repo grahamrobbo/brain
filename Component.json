@@ -1,0 +1,10 @@
+{
+    "name": "samples.components.brain",
+    "version": "0.1.0",
+    "description": "Sample brain components",
+    "keywords": [
+        "image",
+        "example"
+    ],
+    "dependencies": {}
+}
